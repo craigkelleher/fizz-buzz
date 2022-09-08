@@ -1,5 +1,4 @@
 package com.tlglearning;
-
 import java.util.EnumSet;
 import java.util.Set;
 
@@ -8,10 +7,10 @@ public enum FizzBuzz {
 /*  public static final String FIZZ_RESULT = "fizz";
     public static final String BUZZ_RESULT = "buzz";
     enumerated values: commas between them, can be on separate lines
-    FIZZ, BUZZ;
+
     Fizz()  if we have arguments, we but them on separate lines
     Buzz;*/
-
+    FIZZ, BUZZ;
 /*  adjusting to have it return a set of 1, both, or neither of fizz and buzz
     neither: return empty set, UI will tell the user the number.
     public static String valueOf(int num){*/
